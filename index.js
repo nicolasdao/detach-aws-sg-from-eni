@@ -81,6 +81,7 @@ if (process.argv.length == 2) {
 		cmdArgs.push(process.argv[2], process.argv[3])
 }
 
+
 // 3. Starts the commander program
 program.parse(cmdArgs) 
 
