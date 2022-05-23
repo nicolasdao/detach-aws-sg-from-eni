@@ -1,6 +1,6 @@
 {
   "name": "detach-aws-sg-from-eni",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "bin": "index.js",
   "description": "NPX script that lists all the ENIs that are attached to a specific security group and gives the option to remove that security group attachement.",
